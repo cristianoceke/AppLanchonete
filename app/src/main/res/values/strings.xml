@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">cekefood</string>
+    <string name="Menu">Menu</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="aproveitesuacomida">Aproveite sua comida</string>
+    <string name="populares">Populares</string>
+    <string name="promoções">Promoções</string>
+    <string name="adicionemais">Adicione mais</string>
+    <string name="adicionaraocarinho">Adicionar ao Carrinho</string>
+    <string name="itensnoseucarrinho">itens no seu carrinho</string>
+    <string name="observacoes">Observações sobre o pedido</string>
+    <string name="total">Total:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="voltarparaomenu">Voltar para o Menu</string>
+    <string name="pesquisa">Pesquisar</string>
+    <string name="ofertadia"> "\n" Oferta de hoje: "\n\n" <b>Uma porção de batata frita gratis </b> "\n\n" em pedidos acima de R$50,00 </string>
+    <string name="adicionar">adicionar</string>
+</resources>
